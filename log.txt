@@ -1,4 +1,6 @@
-4ef492f (HEAD -> main, origin/main, origin/HEAD) Task 2.3 - introduce usd helper
+937eba4 (HEAD -> main, origin/main, origin/HEAD) Task 2.4 - finalized refactoring
+c50865a updated log
+4ef492f Task 2.3 - introduce usd helper
 3458dcd Task 2.2 - completed
 261a98e completed task 2.2
 f377f2c updated logs
