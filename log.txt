@@ -1,4 +1,6 @@
-0354802 (HEAD -> main, origin/main, origin/HEAD) Task 2.1 - refactor getAmount and getPlay
+261a98e (HEAD -> main, origin/main, origin/HEAD) completed task 2.2
+f377f2c updated logs
+0354802 Task 2.1 - refactor getAmount and getPlay
 6b3554c Task 1.2 - added git logs
 abc90f4 Task 1.1 - fixed formatting
 829214e checkstyle issues fixed
